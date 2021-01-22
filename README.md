@@ -118,3 +118,11 @@ kubectl delete -f jpetstore.yaml
 kubectl delete secret mysql-creds
 
 ```
+
+
+
+
+
+
+
+
